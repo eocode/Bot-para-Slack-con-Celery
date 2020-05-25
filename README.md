@@ -1,5 +1,7 @@
 # Bot para Slack
 
+El siguiente repo forma parte del curso de Celery de Platzi
+
 ## Como iniciar
 
 Crea una app en Slack y configurala
@@ -18,6 +20,16 @@ pip install -r requirements.txt
 
 Crea un archivo de variables de entorno
 .env
+
+El archivo principal es:
+
+`client.py`
+
+## Funcionamiento
+
+<div align="center">
+  <img src="img/mayordomo.png">
+</div>
 
 # Licencia 
 GNU GENERAL PUBLIC LICENSE Version 3
